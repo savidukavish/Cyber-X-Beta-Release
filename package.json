@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "BLACK ALPHA MD",
   "version": "1.0.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -20,7 +20,7 @@
   "author": "darkalphaxteam",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
+    "@adiwajshing/baileys": "https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@shineiichijo/marika": "^2.0.2",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
+    "url": "https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby"
   },
   "bugs": {
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
+    "url": "https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby"
   },
-  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
+  "homepage": "https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby"
 }
