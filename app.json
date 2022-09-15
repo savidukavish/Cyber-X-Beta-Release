@@ -1,8 +1,8 @@
 {
-  "name": "Cyber-X WA BOT",
+  "name": "BLACK ALPHA WA BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
-  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+  "repository": "https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby",
+  "logo": "https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
