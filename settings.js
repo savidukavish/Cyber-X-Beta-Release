@@ -47,9 +47,9 @@ global.owner = ['94768440031']
 global.ownertag = '94770378874' //ur tag number
 global.botnumber = '94768440031' //Add your Bot Number For Log
 global.botname = 'BLACK ALPHA EDITION' //ur bot name
-global.ig = "https://github.com/sacibaby/Cyber-X-Beta-Release" //your theme url which will be displayed on whatsapp
-global.myweb = "https://github.com/sacibaby/Cyber-X-Beta-Release" //ur website to be displayed
-global.sc = 'https://github.com/sacibaby/Cyber-X-Beta-Release?organization=sacibaby&organization=sacibaby' //script link
+global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.sc = 'https://youtu.be/uzMbW5v9QLE' //script link
 global.linkz = 'https://github.com/sacibaby/Cyber-X-Beta-Release'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
@@ -60,7 +60,53 @@ global.aliveimg ="https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg"
 global.allmenuimg ="https://telegra.ph/file/aa6468d5b74cf091bdec6.jpg"
 global.welcomeimg= "https://telegra.ph/file/132c8575beb7615ae668d.jpg"
 global.gbyeimg = "https://telegra.ph/file/dd8066aa7889a2f32411b.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "
+
+❑❑❑ ALPHA 𝑀𝐷 ❑❑❑
+
+┌──────────────❖
+
+│👋 ʜɪ Hello .....,,,,,   
+
+│✦ ɪ ᴀᴍ [💃BLACK ALPHA] 🔥
+
+│᪣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝑄𝑢𝑒𝑒𝑛 𝑒𝑙𝑖𝑠𝑎 𝑣2 𝑚𝑑
+
+├──────────────❖
+
+│        ❖▛ BOT INFO ▟❖
+
+│❤️❤️❤️❤️❤️❤️❤️
+
+│🎲 𝗕𝗼𝘁 𝗻𝗮𝗺𝗲:: 💃BLACK ALPHA 𝑣2💃
+
+❑❑❑❑❑❑❑❑❑❑❑❑❑❑❑❑❑
+
+│🎲 𝗼𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 :: 𝑆𝑈𝑁𝐸𝑇𝐻
+
+│🎲 𝗢𝘄𝗻𝗲𝗿 𝗻𝘂𝗺𝗯𝗲𝗿 :: 94770378874
+
+│🔥 𝗛𝗼𝘀𝘁  𝗻𝗮𝗺𝗲 :: 0a718c19-e54c-44c8-9bec-0939145aadcb
+
+│🔥 𝗽𝗹𝗮𝘁𝗼𝗿𝗺 :: 𝑙𝑖𝑛𝑢𝑥
+
+│🔥 𝗧𝗼𝘁𝗮𝗹 𝘂𝘀𝗲𝗿𝘀:: 29
+
+└──────────────❖❖❖❖❖❖❖❖❖❖❖❖
+
+┉┉┉┉𝖮𝖴𝖱 𝖳𝖤𝖠𝖬┉┉┉
+
+☛බොට් හිමිකරු= "M.r ＳＵＮＥＴＨ"
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
+💃BLACK ALPHA𝗩2💃
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
+ⁿᵉʷ ᵘᵖᵈᵃᵗᵉ ʷʰᵃᵗˢ ᵃᵖᵖ ᴮᴼᵀ ᶜʳᵉᵃᵗᵉᵈ ᵇʸ "ᖳᘎᙓᙓᘉ ᙓᒪᓮᔕᗩ" ᴛᴇᴀᴍ
+
+▛▛▛▛▛▛▛▛▛▛▛▛▛▛▛▙▙▙▙▙▙▙▙▙▙▙▙▙▙▙"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
